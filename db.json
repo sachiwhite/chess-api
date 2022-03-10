@@ -1,5 +1,5 @@
 {
 	"moves" : [
-	{"IpAddress":"123","PieceToMove":{"Type":0,"Player":0,"Coordinates":{"XCoordinates":7,"YCoordinates":6},"DoesVerticalMoves":true,"DoesHorizontalMoves":false,"DoesDiagonalMoves":false,"Pos":"350, 300"},"PieceMoved":{"Type":6,"Player":0,"Coordinates":{"XCoordinates":7,"YCoordinates":4},"DoesVerticalMoves":false,"DoesHorizontalMoves":false,"DoesDiagonalMoves":false,"Pos":"350, 200"}}
+	{"id":1,"IpAddress":"123","PieceToMove":{"Type":0,"Player":0,"Coordinates":{"XCoordinates":7,"YCoordinates":6},"DoesVerticalMoves":true,"DoesHorizontalMoves":false,"DoesDiagonalMoves":false,"Pos":"350, 300"},"PieceMoved":{"Type":6,"Player":0,"Coordinates":{"XCoordinates":7,"YCoordinates":4},"DoesVerticalMoves":false,"DoesHorizontalMoves":false,"DoesDiagonalMoves":false,"Pos":"350, 200"}}
 	] 
 }
